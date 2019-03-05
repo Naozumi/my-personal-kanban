@@ -29,3 +29,4 @@ I will likely keep adding to this tool as long as I continue to use it.
   - [ ] Tags
   - [ ] File storage - I don't fully trust web browser storage
   - [ ] Simple conversion to Electron (which is how I use this anyway)
+  - [ ] Fix the colour picker
